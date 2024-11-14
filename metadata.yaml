@@ -1,0 +1,28 @@
+_repo: The-twelve-best-short-stories-in-the-French-language_74669
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Dorchain, Auguste
+    gutenberg_agent_id: '57594'
+    url: http://www.gutenberg.org/2009/agents/57594
+description: ''
+gutenberg_issued: '2024-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74669'
+language: en
+pgterms:marc904: https://archive.org/details/twelvebestshorts00dorciala/page/n3/mode/2up
+pgterms:marc905: 20210101125242dorchain
+pgterms:marc906: '1915'
+pgterms:marc907: GB
+production_note: Andrés V. Galia, GenKnit, Knysna and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bGowans and Gray, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The twelve best short stories in the French language
+url: http://www.gutenberg.org/ebooks/74669
